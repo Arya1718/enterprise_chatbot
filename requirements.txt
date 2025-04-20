@@ -1,7 +1,13 @@
 streamlit
-langchain
-openai
+transformers
+sentence-transformers
+torch
 faiss-cpu
-tiktoken
-PyPDF2
 scikit-learn
+nltk
+pymupdf
+numpy
+pandas
+requests
+regex
+protobuf
